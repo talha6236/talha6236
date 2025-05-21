@@ -50,3 +50,29 @@ I have experience in:
 
 > “Empowering others through mentorship and innovation.”
 
+<!-- Talha Jobayer Radowan - GitHub Profile README -->
+
+<h1 align="center">Hi 👋, I'm Talha Jobayer Radowan</h1>
+<h3 align="center">Civil Engineering Student | Entrepreneur | Web Designer | Consultant</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1D9BF0&center=true&vCenter=true&width=435&lines=CUET+Civil+Student+%7C+Entrepreneur;Web+Designer+%7C+Consultant+%7C+Mentor;Let's+Build+Something+Amazing+Together!" alt="Typing SVG" />
+</p>
+
+---
+
+### 🚀 About Me
+
+```yaml
+name: Talha Jobayer Radowan
+university: Chittagong University of Engineering & Technology (CUET)
+year: 2nd Year Civil Engineering Student
+roles: 
+  - Entrepreneur
+  - Web Designer
+  - Consultant
+  - Mentor
+languages:
+  - English (Fluent)
+  - Bangla (Native)
+  - Arabic (Basic)
